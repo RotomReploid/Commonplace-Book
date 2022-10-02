@@ -11,3 +11,11 @@ h1 {
 h2 {
     text-align: center;
 }
+
+error- {
+    text-decoration: red wavy underline;
+}
+
+mytag {
+    font-weight: bold;
+}
