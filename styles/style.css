@@ -19,3 +19,6 @@ error- {
 mytag {
     font-weight: bold;
 }
+a:visited { 
+ color: blue; 
+}
