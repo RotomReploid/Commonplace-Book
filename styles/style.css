@@ -4,11 +4,7 @@ html, body {
     background-color: skyblue
 }
 
-h1 {
-    text-align: center;
-}
-
-h2 {
+h1, h2 {
     text-align: center;
 }
 
@@ -19,6 +15,8 @@ error- {
 mytag {
     font-weight: bold;
 }
-a:visited { 
- color: blue; 
+
+a, a:visited { 
+   color: blue;
+    text-decoration: underline;
 }
